@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HKh7LvFHMtzNZR9wNhmvC4ErbPpCNfLOwDgccqYOqa8=",
+  "Source": "EventTrackingService",
+  "BasePath": "_content/EventTrackingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
